@@ -2,7 +2,6 @@
 - 👀 I’m interested in "Data Science"
 - 🌱 I’m currently learning Python, Machine-Learning, AI, Deeplearning
 - 💞️ I’m looking to collaborate on Different kind of Datasets
-- 📫 You can reach me through my mail Id : t.srikanth004@gmail.com 
 
 <!---
 Sri-kanth-004/Sri-kanth-004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
